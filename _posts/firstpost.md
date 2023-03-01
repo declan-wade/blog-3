@@ -1,9 +1,9 @@
 ---
+author: Declan Wade
+tags: [homelab, docker]
 title: Docker Run CLI reference
 description: Let's try a basic example to run Docker containers
 date: 2022-05-01
-tags:
-  - docker
 layout: post
 blog: true
 ---

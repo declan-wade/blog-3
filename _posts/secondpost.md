@@ -1,9 +1,9 @@
 ---
+author: Declan Wade
+tags: [homelab]
 title: My unorthodox Homelab
 description: Windows vs Linux!.
 date: 2022-06-04
-tags:
-  - homelab
 layout: post
 blog: true
 ---
