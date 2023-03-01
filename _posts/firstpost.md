@@ -4,7 +4,7 @@ tags: [homelab, docker]
 title: Docker Run CLI reference
 description: Let's try a basic example to run Docker containers
 date: 2022-05-01
-layout: blog
+layout: post
 blog: true
 ---
 
