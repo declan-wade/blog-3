@@ -4,7 +4,7 @@ tags: [homelab, automation]
 title: Automating with Ansible
 description: I wanna do as little as possible
 date: 2023-01-21
-layout: post
+layout: blog
 blog: true
 ---
 
