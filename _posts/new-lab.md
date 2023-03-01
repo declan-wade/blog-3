@@ -4,7 +4,7 @@ tags: [homelab]
 title: My New Homelab
 description: Windows vs Linux!.
 date: 2023-01-20
-layout: blog
+layout: post
 blog: true
 ---
 
