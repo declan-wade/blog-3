@@ -1,9 +1,9 @@
 ---
+author: Declan Wade
+tags: [homelab]
 title: My New Homelab
 description: Windows vs Linux!.
 date: 2023-01-20
-tags:
-  - homelab
 layout: post
 blog: true
 ---
